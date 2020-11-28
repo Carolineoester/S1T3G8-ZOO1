@@ -9,7 +9,7 @@
 }
 
 .navtext {
-    font-family: Alianza;
+    font-family: 'Abhaya Libre', serif;
     color: #3b5b3b;
     font-size: 20px;
     text-decoration: none;
@@ -25,7 +25,14 @@ img {
     background-color: #3b5b3b;
     color: white;
     position: fixed;
-    
+    font-family: 'Abhaya Libre', serif;
+    text-decoration: none;
+}
+
+.column {
+    float: left;
+    width: 25%;
+   
 }
 
 
